@@ -11,8 +11,8 @@
 
 # Clone the repository
   
-  git clone <repository_url>
-  cd <repository_name>
+  git clone https://github.com/ImranBashir43/python-DS
+  cd python-DS
 
 # Create a virtual environment
 
